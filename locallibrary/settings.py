@@ -26,7 +26,7 @@ SECRET_KEY = 'gp0&4&!lo2s1bs!ksp$8l0zt776igy1kzt@jo!6^c$gs__14iu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [rocky-basin-89466.herokuapp.com]
+ALLOWED_HOSTS = ['rocky-basin-89466.herokuapp.com', 'localhost']
 
 
 # Application definition
